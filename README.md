@@ -1,6 +1,10 @@
 # Lookup table of MIDI numbers to note names to note frequences
 
-Available in CSV, JSON and JavaScript
+Available in CSV, JSON and JavaScript. See samples below.
+
+## Funky characters
+
+The data uses `#` and `b` for sharps and flats. If you want to be fancy when displaying this data, feel free to string-replace these with ASCII symbols `♯` and `♭`
 
 ## CSV sample
 ```
